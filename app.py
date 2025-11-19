@@ -1,3 +1,5 @@
+# Testing automated build
+
 def main():
     print('Hello Jenkins, code updated automatically!')
 
